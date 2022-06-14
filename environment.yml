@@ -1,0 +1,14 @@
+name: SparseRewards
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python >=3.6, >3.9.0a0
+  - jupyterlab
+  - numpy
+  - scipy
+  - pandas
+  - xlrd
+  - openpyxl
+  - ipywidgets
+  - matplotlib
